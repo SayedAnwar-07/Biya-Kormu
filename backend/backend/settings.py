@@ -150,5 +150,5 @@ CORS_ALLOW_CREDENTIALS = True
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",   
-    "https://eventrabd.netlify.app", 
+    "https://biyakormu.netlify.app/", 
 ]
