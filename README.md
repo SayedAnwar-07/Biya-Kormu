@@ -23,7 +23,7 @@ Use the following accounts to explore the application:
 **Email:** `customer@gmail.com`  
 **Password:** `SecurepassWord($@)`
 
-### 🛠️ Admin Account
+### 🛠️ Seller Account
 
 **Email:** `neru@gmail.com`  
 **Password:** `SecurepassWord($@)`
