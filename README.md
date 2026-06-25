@@ -4,7 +4,7 @@
 
 ## 📸 Project Preview
 
-![Biya Kormu Preview](./assets/EventraBD.png)
+![Biya Kormu Preview](./frontend/src/assets/EventraBD.png)
 
 ## 🌐 Live Demonstration
 
